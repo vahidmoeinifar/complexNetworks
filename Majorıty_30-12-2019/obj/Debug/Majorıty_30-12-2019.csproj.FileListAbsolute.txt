@@ -1,0 +1,129 @@
+C:\Users\Yakamoz\Desktop\Majorıty_30-12-2019\Majorıty_30-12-2019\bin\Debug\Majorıty_30-12-2019.exe.config
+C:\Users\Yakamoz\Desktop\Majorıty_30-12-2019\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.exe
+C:\Users\Yakamoz\Desktop\Majorıty_30-12-2019\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.pdb
+C:\Users\Yakamoz\Desktop\Majorıty_30-12-2019\Majorıty_30-12-2019\bin\Debug\Majorıty_30-12-2019.exe
+C:\Users\Yakamoz\Desktop\Majorıty_30-12-2019\Majorıty_30-12-2019\bin\Debug\Majorıty_30-12-2019.pdb
+C:\Users\Yakamoz\Desktop\Majorıty_30-12-2019\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.csprojResolveAssemblyReference.cache
+C:\Users\Yakamoz\Desktop\Majorıty_30-12-2019\Majorıty_30-12-2019\obj\Debug\Majorıty_30_12_2019.Form1.resources
+C:\Users\Yakamoz\Desktop\Majorıty_30-12-2019\Majorıty_30-12-2019\obj\Debug\Majorıty_30_12_2019.Properties.Resources.resources
+C:\Users\Yakamoz\Desktop\Majorıty_30-12-2019\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.csproj.GenerateResource.Cache
+C:\Users\Yakamoz\OneDrive\Tez\Codes\1-8-2020\Majorıty_30-12-2019\bin\Debug\Majorıty_30-12-2019.exe.config
+C:\Users\Yakamoz\OneDrive\Tez\Codes\1-8-2020\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.exe
+C:\Users\Yakamoz\OneDrive\Tez\Codes\1-8-2020\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.pdb
+C:\Users\Yakamoz\OneDrive\Tez\Codes\1-8-2020\Majorıty_30-12-2019\bin\Debug\Majorıty_30-12-2019.exe
+C:\Users\Yakamoz\OneDrive\Tez\Codes\1-8-2020\Majorıty_30-12-2019\bin\Debug\Majorıty_30-12-2019.pdb
+C:\Users\Yakamoz\OneDrive\Tez\Codes\1-8-2020\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.csprojResolveAssemblyReference.cache
+C:\Users\Yakamoz\OneDrive\Tez\Codes\1-8-2020\Majorıty_30-12-2019\obj\Debug\Majorıty_30_12_2019.Form1.resources
+C:\Users\Yakamoz\OneDrive\Tez\Codes\1-8-2020\Majorıty_30-12-2019\obj\Debug\Majorıty_30_12_2019.Properties.Resources.resources
+C:\Users\Yakamoz\OneDrive\Tez\Codes\1-8-2020\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.csproj.GenerateResource.Cache
+C:\Users\user\OneDrive\Tez\Codes\1-8-2020\Majorıty_30-12-2019\bin\Debug\Majorıty_30-12-2019.exe.config
+C:\Users\user\OneDrive\Tez\Codes\1-8-2020\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.exe
+C:\Users\user\OneDrive\Tez\Codes\1-8-2020\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.pdb
+C:\Users\user\OneDrive\Tez\Codes\1-8-2020\Majorıty_30-12-2019\bin\Debug\Majorıty_30-12-2019.exe
+C:\Users\user\OneDrive\Tez\Codes\1-8-2020\Majorıty_30-12-2019\bin\Debug\Majorıty_30-12-2019.pdb
+C:\Users\user\OneDrive\Tez\Codes\1-8-2020\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.csprojResolveAssemblyReference.cache
+C:\Users\user\OneDrive\Tez\Codes\1-8-2020\Majorıty_30-12-2019\obj\Debug\Majorıty_30_12_2019.Form1.resources
+C:\Users\user\OneDrive\Tez\Codes\1-8-2020\Majorıty_30-12-2019\obj\Debug\Majorıty_30_12_2019.Properties.Resources.resources
+C:\Users\user\OneDrive\Tez\Codes\1-8-2020\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.csproj.GenerateResource.Cache
+C:\Users\user\OneDrive\Tez\Codes\06-03-2020\Majorıty_30-12-2019\bin\Debug\Majorıty_30-12-2019.exe.config
+C:\Users\user\OneDrive\Tez\Codes\06-03-2020\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.exe
+C:\Users\user\OneDrive\Tez\Codes\06-03-2020\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.pdb
+C:\Users\Yakamoz\OneDrive\Tez\Codes\06-03-2020\Majorıty_30-12-2019\bin\Debug\Majorıty_30-12-2019.exe.config
+C:\Users\Yakamoz\OneDrive\Tez\Codes\06-03-2020\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.exe
+C:\Users\Yakamoz\OneDrive\Tez\Codes\06-03-2020\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.pdb
+C:\Users\Yakamoz\OneDrive\Tez\Codes\06-03-2020\Majorıty_30-12-2019\bin\Debug\Majorıty_30-12-2019.exe
+C:\Users\Yakamoz\OneDrive\Tez\Codes\06-03-2020\Majorıty_30-12-2019\bin\Debug\Majorıty_30-12-2019.pdb
+C:\Users\Yakamoz\OneDrive\Tez\Codes\06-03-2020\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.csprojResolveAssemblyReference.cache
+C:\Users\Yakamoz\OneDrive\Tez\Codes\06-03-2020\Majorıty_30-12-2019\obj\Debug\Majorıty_30_12_2019.Form1.resources
+C:\Users\Yakamoz\OneDrive\Tez\Codes\06-03-2020\Majorıty_30-12-2019\obj\Debug\Majorıty_30_12_2019.Properties.Resources.resources
+C:\Users\Yakamoz\OneDrive\Tez\Codes\06-03-2020\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.csproj.GenerateResource.Cache
+C:\Users\user\OneDrive\Tez\Codes\06-03-2020\Majorıty_30-12-2019\bin\Debug\Majorıty_30-12-2019.exe
+C:\Users\user\OneDrive\Tez\Codes\06-03-2020\Majorıty_30-12-2019\bin\Debug\Majorıty_30-12-2019.pdb
+C:\Users\user\OneDrive\Tez\Codes\06-03-2020\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.csprojResolveAssemblyReference.cache
+C:\Users\user\OneDrive\Tez\Codes\06-03-2020\Majorıty_30-12-2019\obj\Debug\Majorıty_30_12_2019.Form1.resources
+C:\Users\user\OneDrive\Tez\Codes\06-03-2020\Majorıty_30-12-2019\obj\Debug\Majorıty_30_12_2019.Properties.Resources.resources
+C:\Users\user\OneDrive\Tez\Codes\06-03-2020\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.csproj.GenerateResource.Cache
+C:\Users\Hadis\OneDrive\Tez\Codes\06-03-2020\Majorıty_30-12-2019\bin\Debug\Majorıty_30-12-2019.exe.config
+C:\Users\Hadis\OneDrive\Tez\Codes\06-03-2020\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.exe
+C:\Users\Hadis\OneDrive\Tez\Codes\06-03-2020\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.pdb
+C:\Users\Hadis\OneDrive\Tez\Codes\06-03-2020\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.csprojResolveAssemblyReference.cache
+C:\Users\Hadis\OneDrive\Tez\Codes\06-03-2020\Majorıty_30-12-2019\obj\Debug\Majorıty_30_12_2019.Form1.resources
+C:\Users\Hadis\OneDrive\Tez\Codes\06-03-2020\Majorıty_30-12-2019\obj\Debug\Majorıty_30_12_2019.Properties.Resources.resources
+C:\Users\Hadis\OneDrive\Tez\Codes\06-03-2020\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.csproj.GenerateResource.Cache
+C:\Users\Hadis\OneDrive\Tez\Codes\06-03-2020\Majorıty_30-12-2019\bin\Debug\Majorıty_30-12-2019.exe
+C:\Users\Hadis\OneDrive\Tez\Codes\06-03-2020\Majorıty_30-12-2019\bin\Debug\Majorıty_30-12-2019.pdb
+C:\Users\Yolcu\OneDrive\Tez\Codes\06-03-2020\Majorıty_30-12-2019\bin\Debug\Majorıty_30-12-2019.exe.config
+C:\Users\Yolcu\OneDrive\Tez\Codes\06-03-2020\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.exe
+C:\Users\Yolcu\OneDrive\Tez\Codes\06-03-2020\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.pdb
+C:\Users\Yolcu\OneDrive\Tez\Codes\06-03-2020\Majorıty_30-12-2019\bin\Debug\Majorıty_30-12-2019.exe
+C:\Users\Yolcu\OneDrive\Tez\Codes\06-03-2020\Majorıty_30-12-2019\bin\Debug\Majorıty_30-12-2019.pdb
+C:\Users\Yolcu\OneDrive\Tez\Codes\06-03-2020\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.csprojResolveAssemblyReference.cache
+C:\Users\Yolcu\OneDrive\Tez\Codes\06-03-2020\Majorıty_30-12-2019\obj\Debug\Majorıty_30_12_2019.Form1.resources
+C:\Users\Yolcu\OneDrive\Tez\Codes\06-03-2020\Majorıty_30-12-2019\obj\Debug\Majorıty_30_12_2019.Properties.Resources.resources
+C:\Users\Yolcu\OneDrive\Tez\Codes\06-03-2020\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.csproj.GenerateResource.Cache
+C:\Users\user\OneDrive\Tez\Codes\06-03-2020 - SF\Majorıty_30-12-2019\bin\Debug\Majorıty_30-12-2019.exe.config
+C:\Users\user\OneDrive\Tez\Codes\06-03-2020 - SF\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.exe
+C:\Users\user\OneDrive\Tez\Codes\06-03-2020 - SF\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.pdb
+C:\Users\user\OneDrive\Tez\Codes\06-03-2020 - SF\Majorıty_30-12-2019\bin\Debug\Majorıty_30-12-2019.exe
+C:\Users\user\OneDrive\Tez\Codes\06-03-2020 - SF\Majorıty_30-12-2019\bin\Debug\Majorıty_30-12-2019.pdb
+C:\Users\user\OneDrive\Tez\Codes\06-03-2020 - SF\Majorıty_30-12-2019\obj\Debug\Majorıty_30_12_2019.Form1.resources
+C:\Users\user\OneDrive\Tez\Codes\06-03-2020 - SF\Majorıty_30-12-2019\obj\Debug\Majorıty_30_12_2019.Properties.Resources.resources
+C:\Users\user\OneDrive\Tez\Codes\06-03-2020 - SF\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.csproj.GenerateResource.Cache
+C:\Users\Yolcu\OneDrive\Tez\Codes\06-03-2020 - SF\Majorıty_30-12-2019\bin\Debug\Majorıty_30-12-2019.exe.config
+C:\Users\Yolcu\OneDrive\Tez\Codes\06-03-2020 - SF\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.exe
+C:\Users\Yolcu\OneDrive\Tez\Codes\06-03-2020 - SF\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.pdb
+C:\Users\user\Desktop\06-03-2020 - SF\Majorıty_30-12-2019\bin\Debug\Majorıty_30-12-2019.exe.config
+C:\Users\user\Desktop\06-03-2020 - SF\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.exe
+C:\Users\user\Desktop\06-03-2020 - SF\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.pdb
+C:\Users\user\Desktop\06-03-2020 - SF\Majorıty_30-12-2019\bin\Debug\Majorıty_30-12-2019.exe
+C:\Users\user\Desktop\06-03-2020 - SF\Majorıty_30-12-2019\bin\Debug\Majorıty_30-12-2019.pdb
+C:\Users\user\Desktop\06-03-2020 - SF\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\06-03-2020 - SF\Majorıty_30-12-2019\obj\Debug\Majorıty_30_12_2019.Form1.resources
+C:\Users\user\Desktop\06-03-2020 - SF\Majorıty_30-12-2019\obj\Debug\Majorıty_30_12_2019.Properties.Resources.resources
+C:\Users\user\Desktop\06-03-2020 - SF\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.csproj.GenerateResource.Cache
+C:\Users\user\OneDrive\Tez\Codes\06-03-2020 - SF\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.csprojResolveAssemblyReference.cache
+C:\Users\user\OneDrive\Tez\Codes\SF_Voter\Majorıty_30-12-2019\bin\Debug\Majorıty_30-12-2019.exe.config
+C:\Users\user\OneDrive\Tez\Codes\SF_Voter\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.exe
+C:\Users\user\OneDrive\Tez\Codes\SF_Voter\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.pdb
+C:\Users\user\OneDrive\Tez\Codes\SF_Voter\Majorıty_30-12-2019\bin\Debug\Majorıty_30-12-2019.exe
+C:\Users\user\OneDrive\Tez\Codes\SF_Voter\Majorıty_30-12-2019\bin\Debug\Majorıty_30-12-2019.pdb
+C:\Users\user\OneDrive\Tez\Codes\SF_Voter\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.csprojResolveAssemblyReference.cache
+C:\Users\user\OneDrive\Tez\Codes\SF_Voter\Majorıty_30-12-2019\obj\Debug\Majorıty_30_12_2019.Form1.resources
+C:\Users\user\OneDrive\Tez\Codes\SF_Voter\Majorıty_30-12-2019\obj\Debug\Majorıty_30_12_2019.Properties.Resources.resources
+C:\Users\user\OneDrive\Tez\Codes\SF_Voter\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.csproj.GenerateResource.Cache
+C:\Users\Yolcu\OneDrive\Tez\Codes\Voter_Scale-free\Majorıty_30-12-2019\bin\Debug\Majorıty_30-12-2019.exe.config
+C:\Users\Yolcu\OneDrive\Tez\Codes\Voter_Scale-free\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.exe
+C:\Users\Yolcu\OneDrive\Tez\Codes\Voter_Scale-free\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.pdb
+C:\Users\user\OneDrive\Tez\Codes\Voter_Scale-free\Majorıty_30-12-2019\bin\Debug\Majorıty_30-12-2019.exe.config
+C:\Users\user\OneDrive\Tez\Codes\Voter_Scale-free\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.exe
+C:\Users\user\OneDrive\Tez\Codes\Voter_Scale-free\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.pdb
+C:\Users\user\OneDrive\Tez\Codes\Voter_Scale-free\Majorıty_30-12-2019\bin\Debug\Majorıty_30-12-2019.exe
+C:\Users\user\OneDrive\Tez\Codes\Voter_Scale-free\Majorıty_30-12-2019\bin\Debug\Majorıty_30-12-2019.pdb
+C:\Users\user\OneDrive\Tez\Codes\Voter_Scale-free\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.csprojResolveAssemblyReference.cache
+C:\Users\user\OneDrive\Tez\Codes\Voter_Scale-free\Majorıty_30-12-2019\obj\Debug\Majorıty_30_12_2019.Form1.resources
+C:\Users\user\OneDrive\Tez\Codes\Voter_Scale-free\Majorıty_30-12-2019\obj\Debug\Majorıty_30_12_2019.Properties.Resources.resources
+C:\Users\user\OneDrive\Tez\Codes\Voter_Scale-free\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.csproj.GenerateResource.Cache
+C:\Users\Yolcu\OneDrive\Tez\Codes\Voter_Scale-free\Majorıty_30-12-2019\bin\Debug\Majorıty_30-12-2019.exe
+C:\Users\Yolcu\OneDrive\Tez\Codes\Voter_Scale-free\Majorıty_30-12-2019\bin\Debug\Majorıty_30-12-2019.pdb
+C:\Users\Yolcu\OneDrive\Tez\Codes\Voter_Scale-free\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.csprojResolveAssemblyReference.cache
+C:\Users\Yolcu\OneDrive\Tez\Codes\Voter_Scale-free\Majorıty_30-12-2019\obj\Debug\Majorıty_30_12_2019.Form1.resources
+C:\Users\Yolcu\OneDrive\Tez\Codes\Voter_Scale-free\Majorıty_30-12-2019\obj\Debug\Majorıty_30_12_2019.Properties.Resources.resources
+C:\Users\Yolcu\OneDrive\Tez\Codes\Voter_Scale-free\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.csproj.GenerateResource.Cache
+C:\Users\PC\OneDrive\Tez\Codes\Voter_Scale-free\Majorıty_30-12-2019\bin\Debug\Majorıty_30-12-2019.exe.config
+C:\Users\PC\OneDrive\Tez\Codes\Voter_Scale-free\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.exe
+C:\Users\PC\OneDrive\Tez\Codes\Voter_Scale-free\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.pdb
+C:\Users\PC\OneDrive\Tez\Codes\Voter_Scale-free\Majorıty_30-12-2019\bin\Debug\Majorıty_30-12-2019.exe
+C:\Users\PC\OneDrive\Tez\Codes\Voter_Scale-free\Majorıty_30-12-2019\bin\Debug\Majorıty_30-12-2019.pdb
+C:\Users\PC\OneDrive\Tez\Codes\Voter_Scale-free\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.csprojResolveAssemblyReference.cache
+C:\Users\PC\OneDrive\Tez\Codes\Voter_Scale-free\Majorıty_30-12-2019\obj\Debug\Majorıty_30_12_2019.Form1.resources
+C:\Users\PC\OneDrive\Tez\Codes\Voter_Scale-free\Majorıty_30-12-2019\obj\Debug\Majorıty_30_12_2019.Properties.Resources.resources
+C:\Users\PC\OneDrive\Tez\Codes\Voter_Scale-free\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.csproj.GenerateResource.Cache
+C:\Users\Vahid\OneDrive\Tez\Codes\Voter_Scale-free\Majorıty_30-12-2019\bin\Debug\Majorıty_30-12-2019.exe.config
+C:\Users\Vahid\OneDrive\Tez\Codes\Voter_Scale-free\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.exe
+C:\Users\Vahid\OneDrive\Tez\Codes\Voter_Scale-free\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.pdb
+C:\Users\Vahid\OneDrive\Tez\Codes\Voter_Scale-free\Majorıty_30-12-2019\bin\Debug\Majorıty_30-12-2019.exe
+C:\Users\Vahid\OneDrive\Tez\Codes\Voter_Scale-free\Majorıty_30-12-2019\bin\Debug\Majorıty_30-12-2019.pdb
+C:\Users\Vahid\OneDrive\Tez\Codes\Voter_Scale-free\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.csprojResolveAssemblyReference.cache
+C:\Users\Vahid\OneDrive\Tez\Codes\Voter_Scale-free\Majorıty_30-12-2019\obj\Debug\Majorıty_30_12_2019.Form1.resources
+C:\Users\Vahid\OneDrive\Tez\Codes\Voter_Scale-free\Majorıty_30-12-2019\obj\Debug\Majorıty_30_12_2019.Properties.Resources.resources
+C:\Users\Vahid\OneDrive\Tez\Codes\Voter_Scale-free\Majorıty_30-12-2019\obj\Debug\Majorıty_30-12-2019.csproj.GenerateResource.Cache
